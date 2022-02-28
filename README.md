@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raman18
 - 👀 I’m interested in Backend Engineering
-- 📫 How to reach me ...
+- 📫 How to reach me ramanpandey1807@gmail.com
 
 <!---
 raman18/raman18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
